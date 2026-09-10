@@ -18,7 +18,7 @@ Passionate about building scalable backend systems, designing reliable APIs, and
 
 - 🎓 B.Tech in **Information & Communication Technology** at **DA-IICT**
 - 💻 Passionate about **Backend Development, Distributed Systems, Databases, and System Design**
-- 🧠 Solved **700+ Data Structures & Algorithms** problems across multiple platforms
+- 🧠 Solved **800+ Data Structures & Algorithms** problems across multiple platforms
 - 🚀 Building production-ready backend applications with clean architecture and best engineering practices
 - 🌱 Continuously learning scalable systems, distributed computing, and software architecture
 - 📷 Outside programming, I enjoy photography, videography, and video editing
